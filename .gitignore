@@ -1,0 +1,11 @@
+# Visual Studio 設置文件
+/.vs
+/bin
+/obj
+*.suo
+*.user
+*.sln.docstates
+
+# .NET 專案文件
+*.njsproj.user
+*.njsproj
